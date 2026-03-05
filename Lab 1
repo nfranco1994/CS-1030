@@ -1,0 +1,6 @@
+
+side= 8 
+area= side * side
+fish= "tuna"
+animal= "fish"
+print= (f"side={side} area={area} fish:{fish} animal:{animal}")
