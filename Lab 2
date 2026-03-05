@@ -1,0 +1,4 @@
+favNum = int(input("Please enter your favorite number: "))
+age = int(input("Please enter your age: "))
+name = (input("Please enter your name: "))
+print(f"{name}, your favorite number is {favNum} and you are {age} years old.")
