@@ -1,0 +1,13 @@
+#/*******************************************************************
+#Name: Nathaly
+#Assignment: A01
+#*******************************************************************/
+
+print('  @..@')
+print(' (----)')
+print(' (>--<)')
+print('^^ ~~ ^^')
+
+state=input('US State:')
+capital=input('Capital:')
+print('The capital of', state, 'is', capital)
